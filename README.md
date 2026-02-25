@@ -14,7 +14,7 @@ The process involved implementing every CPU, Memory and Graphics related compone
 
 ### ROM Showcase and GUI
 
-![alt text](https://github.com/astrobits1/MegaGB/raw/master/img1.jpg
-![alt text](https://github.com/astrobits1/MegaGB/raw/master/img2.jpg
-![alt text](https://github.com/astrobits1/MegaGB/raw/master/img3.jpg
+![alt text](https://github.com/astrobits1/MegaGB/raw/master/img1.jpg)
+![alt text](https://github.com/astrobits1/MegaGB/raw/master/img2.jpg)
+![alt text](https://github.com/astrobits1/MegaGB/raw/master/img3.jpg)
 
