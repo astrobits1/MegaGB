@@ -12,5 +12,9 @@ The process involved implementing every CPU, Memory and Graphics related compone
 
 • Additionally, for emulating the graphics, the entire Pixel First-In-First-Out (FIFO) hardware mechanism was emulated, to get maximum accuracy. This replicated changes to display at a sub-scanline level, matching very closely to how the actual hardware does it. Every pixel is processed and pushed individually as part of this FIFO and this is intertwined with the CPU Instructions running on the same thread. <br>
 
+### ROM Showcase and GUI
 
+![alt text](https://github.com/astrobits1/MegaGB/raw/master/img1.jpg
+![alt text](https://github.com/astrobits1/MegaGB/raw/master/img2.jpg
+![alt text](https://github.com/astrobits1/MegaGB/raw/master/img3.jpg
 
