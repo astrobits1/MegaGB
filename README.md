@@ -4,7 +4,7 @@ A cycle accurate emulator for the Gameboy and Gameboy Color consoles in C, with 
 
 The process involved implementing every CPU, Memory and Graphics related component of the console in software, keeping in mind intricate functioning and interplay of the components. This had to be done to a level of precision where the games/software dedicated to the Gameboy ran identically on the emulator, as on the real hardware. 
 
-## Key Design Highlights and Features:
+## Key Design Highlights and Features
 
 • The core emulator (without GUI), i.e CPU, Memory, PPU, Timers, Hardware Registers are a challenge to emulate as they run in parallel on the real hardware. All these components in the emulator run on a single thread. Syncing, scheduling and context switching is done, often times several times per CPU instruction, such that these parallel components running together are emulated at a very high accuracy.<br>
 
@@ -46,10 +46,10 @@ The process involved implementing every CPU, Memory and Graphics related compone
 Currently the project is out of active development as it has reached a stable stage of functionality. However there are pending improvements that could be made
 over the years as and when I feel like working on them:
 
-- Adding more memory bank controller support to expand to more runnable games.
-- Complete Gameboy color residual support
-- Add audio emulation
-- Better debugging UI and infrastructure.
+• Adding more memory bank controller support to expand to more runnable games<br>
+• Complete Gameboy color residual support<br>
+• Add audio emulation<br>
+• Better debugging UI and infrastructure<br>
 
 ## References
 • [Gameboy Pandocs](https://gbdev.io/pandocs/) - For hardware documentation and quirks <br>
