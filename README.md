@@ -23,7 +23,7 @@ The process involved implementing every CPU, Memory and Graphics related compone
 • <i>May 2022 - August 2022</i> : PPU Pixel FIFO design and implementation, completion of essential components, memory bank controllers.<br>
 • <i>December 2024</i> : Debug menu addition using ImGUI.<br>
 
-## ROM Showcase and GUI
+## ROM Showcase
 ### Gameboy
 
 | | | |
@@ -40,7 +40,8 @@ The process involved implementing every CPU, Memory and Graphics related compone
 <img src="images/supermariobros.png" width="90%"/> <br>Super Mario Bros | <img src="images/pokemongold.png" width="90%"/> <br>Pokemon Gold | <img src="images/tetrisdxplay.png" width="90%"/> <br> Tetris DX Playthrough
 
 ### Real time execution state viewer and color palette selector
-<img src="images/gui.jpg" width="50%"> 
+<img src="images/palettedisplay.png" width="80%">
+<p>ROM: <i>Is that a demo in your pocket?</i></p>
 
 ## Current State
 Currently the project is out of active development as it has reached a stable stage of functionality. However there are pending improvements that could be made
