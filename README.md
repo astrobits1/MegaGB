@@ -52,6 +52,10 @@ over the years as and when I feel like working on them:
 • Add audio emulation<br>
 • Better debugging UI and infrastructure<br>
 
+## AI Usage Disclosure
+The core emulator was developed before the public availability of modern generative AI tools and LLM-based coding assistants.<br>
+No generative AI was used in the design, implementation, debugging, testing, or documentation of this project.
+
 ## References
 • [Gameboy Pandocs](https://gbdev.io/pandocs/) - For hardware documentation and quirks <br>
 • [izik1's Gameboy CPU opcode table](https://izik1.github.io/gbops/) - CPU Instruction encoding
