@@ -28,16 +28,16 @@ The process involved implementing every CPU, Memory and Graphics related compone
 
 | | | |
 :---:|:---:|:---:
-<img src="images/tetris.png" width="90%"> <br>Tetris | <img src="images/alien3.png" width="90%"/> <br>Alien 3 | <img src="images/legendofzelda.png" width="90%"/> <br>Legend of Zelda - Link's Awakening
-<img src="images/pokemonblue.png" width="90%"/> <br>Pokemon Blue | <img src="images/bioniccommando.png" width="90%"/> <br>Bionic Commando | <img src="images/kirby.png" width="90%"/> <br>Kirby's Dreamland
-<img src="images/pinballdeluxe.png" width="90%"/> <br>Pinball Deluxe | <img src="images/drmario.png" width="90%"/> <br>Dr Mario | <img src="images/donkeykong.png" width="90%"/> <br>Donkey Kong
+<img src="images/tetris.png" width="90%"> <br><b>Tetris</b> | <img src="images/alien3.png" width="90%"/> <br><b>Alien 3</b> | <img src="images/legendofzelda.png" width="90%"/> <br><b>Legend of Zelda - Link's Awakening</b>
+<img src="images/pokemonblue.png" width="90%"/> <br><b>Pokemon Blue</b> | <img src="images/bioniccommando.png" width="90%"/> <br><b>Bionic Commando</b> | <img src="images/kirby.png" width="90%"/> <br><b>Kirby's Dream Land</b>
+<img src="images/pinballdeluxe.png" width="90%"/> <br><b>Pinball Deluxe</b> | <img src="images/drmario.png" width="90%"/> <br><b>Dr. Mario</b> | <img src="images/donkeykong.png" width="90%"/> <br><b>Donkey Kong</b>
 
 ### Gameboy Color (Most features have been implemented)
 
 | | | |
 :---:|:---:|:---:
-<img src="images/tetrisdx.png" width="90%"> <br>Tetris DX | <img src="images/pokemoncrystal.png" width="90%"/> <br>Pokemon Crystal | <img src="images/mariogolf.png" width="90%"/> <br>Mario Golf
-<img src="images/supermariobros.png" width="90%"/> <br>Super Mario Bros | <img src="images/pokemongold.png" width="90%"/> <br>Pokemon Gold | <img src="images/tetrisdxplay.png" width="90%"/> <br> Tetris DX Playthrough
+<img src="images/tetrisdx.png" width="90%"> <br><b>Tetris DX</b> | <img src="images/pokemoncrystal.png" width="90%"/> <br><b>Pokemon Crystal</b> | <img src="images/mariogolf.png" width="90%"/> <br><b>Mario Golf</b>
+<img src="images/supermariobros.png" width="90%"/> <br><b>Super Mario Bros</b> | <img src="images/pokemongold.png" width="90%"/> <br><b>Pokemon Gold</b> | <img src="images/tetrisdxplay.png" width="90%"/> <br><b>Tetris DX Playthrough</b>
 
 ### Real time execution state viewer and color palette selector
 <img src="images/palettedisplay.png" width="80%">
